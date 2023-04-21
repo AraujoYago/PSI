@@ -84,7 +84,7 @@ public class Ejercicios {
 
         for (int i = 0; i < n; i++) {
             U2 = Math.random();
-            X2 = Math.log(U2);
+            X2 = L2 * Math.log(U2);
             atencion.add(X2);
         }
 
