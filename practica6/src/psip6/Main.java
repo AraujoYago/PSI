@@ -58,7 +58,7 @@ public class Main {
         }
         varianzaTri = varianzaTri / 1000;
 
-        System.out.println("Media de la dstribución triangular: " + mediaTri);
+        System.out.println("Media de la distribución triangular: " + mediaTri);
         System.out.println("Varianza de la distribución triangular: " + varianzaTri);
         System.out.println();
 
